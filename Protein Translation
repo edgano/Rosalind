@@ -1,0 +1,3 @@
+from Bio.Seq import translate
+coding_dna = "GTGGCCATTGTAATGGGCCGCTGAAAGGGTGCCCGATAG"
+translate(coding_dna)
